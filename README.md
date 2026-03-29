@@ -3,7 +3,7 @@
 This repository contains the R code and documentation for the "Human Activity Recognition Using Smartphones" data cleaning project.
 
 ## Project Goal
-The objective is to prepare a tidy data set that can be used for later analysis. The data represents measurements collected from the accelerometers of Samsung Galaxy S smartphones worn by 30 subjects performing six different activities.
+The objective is to prepare a tidy data set(FinalData.txt) that can be used for later analysis. The data represents measurements collected from the accelerometers of Samsung Galaxy S smartphones worn by 30 subjects performing six different activities.
 
 ## Files in this Repository
 * `run_analysis.R`: The R script used to transform the raw data into the final tidy dataset.
